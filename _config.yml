@@ -1,0 +1,114 @@
+#-------------------------------
+# Site Settings
+title: Gean Ramos
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Gean Ramos personal blogging theme for Jekyll
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Gean Ramos
+  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  author__avatar: 'https://2.gravatar.com/avatar/bdd3a9aa9878447e26ba6191f221487233264cf3915c0823af839cc5af5c9439?size=150'
+
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/geanramos"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com/geanramoss"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/geanramus"}
+- {icon: "ion-logo-youtube", link: "https://youtube.com/@geanramos"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hey, I’m Gean Ramos
+  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  hero__image: 'https://i0.wp.com/youblog.50x.com.br/images/japan/tianshu-liu-khQY5Eu-aa0-unsplash.jpg?resize=554,312'
+
+
+#-------------------------------
+# Newsletter
+mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: gean.me/form # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Subscribe here
+mailchimp__button__text: Get a new tip
+
+#-------------------------------
+# Gallery Footer Section
+gallery:
+  gallery__title: Gallery
+  gallery__columns: 3
+  gallery__images:
+    - alt: 'Rest'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/alex-knight-5-GNa303REg-unsplash.jpg'
+    - alt: 'Bayes'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/hakan-nural-8l8gQsG4c-E-unsplash.jpg'
+    - alt: 'Bayes2'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/hama-haki-3TDaQc4930s-unsplash.jpg'
+    - alt: 'Bayes3'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jase-bloor-oCZHIa1D4EU-unsplash.jpg'
+    - alt: 'Rest'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-alY6_OpdwRQ-unsplash.jpg'
+    - alt: 'Hobby'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-ryqRm-dfZbI-unsplash.jpg'
+    - alt: 'Fashion'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/redd-f-Bxzrd0p6yOM-unsplash.jpg'
+    - alt: 'Notes'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/su-san-lee-E_eWwM29wfU-unsplash.jpg'
+    - alt: 'Rest'
+      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/susann-schuster-umHsjqIJyK4-unsplash.jpg'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: geanramus@gmail.com # Add your email for contant form
+  description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: geanramos # Add your shortname for Disqus Comment. For example demo-menca
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
