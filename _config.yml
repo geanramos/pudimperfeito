@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Gean Ramos
-logo: "/images/logo.png" # You can add own logo. For example '/images/logo.png'.
+logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
 description: Gean Ramos personal blogging theme for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
