@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Gean Ramos
+title: Pudim Perfeito 🍮
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
-description: Gean Ramos personal blogging theme for Jekyll
+description: Pudim Perfeito personal blogging theme for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
@@ -12,9 +12,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Gean Ramos
+  author__name: Pudim perfeito
   author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author__avatar: 'https://2.gravatar.com/avatar/bdd3a9aa9878447e26ba6191f221487233264cf3915c0823af839cc5af5c9439?size=150'
+  author__avatar: 'https://i0.wp.com/pudimperfeito.50x.com.br/favicon.png?resize=128,128'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/geanramos"}
@@ -31,7 +31,7 @@ social:
 hero:
   hero__title: Hey, I’m Gean Ramos
   hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  hero__image: 'https://i0.wp.com/youblog.50x.com.br/images/japan/tianshu-liu-khQY5Eu-aa0-unsplash.jpg?resize=554,312'
+  hero__image: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/pudim-top.jpg?resize=554,312'
 
 
 #-------------------------------
