@@ -2,7 +2,7 @@
 # Site Settings
 title: Pudim Perfeito 🍮
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
-description: Compartilhe momentos especiais com a família e amigos ao redor de um pudim perfeito. Crie memórias afetivas e celebre a vida com essa sobremesa que une corações e paladares.
+description: "Compartilhe momentos especiais com a família e amigos ao redor de um pudim perfeito. Crie memórias afetivas e celebre a vida com essa sobremesa que une corações e paladares"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Pudim Perfeito: Mais que uma Sobremesa
-  hero__description: Descubra receitas, dicas e truques para preparar o pudim dos seus sonhos! Do clássico ao gourmet, explore um universo de sabores e texturas que vão te conquistar.
+  hero__description: Descubra receitas, dicas e truques para preparar o pudim dos seus sonhos! Do clássico ao gourmet, explore um universo de sabores e texturas que vão te conquistar
   hero__image: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/pudim-top.jpg?resize=554,312'
 
 
