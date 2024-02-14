@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Pudim Perfeito - v1852
+title: Pudim Perfeito - v2044
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
-description: Pudim Perfeito: Doce Pecado que te Leva ao Paraíso.
+description: "Pudim Perfeito: Doce Pecado que te Leva ao Paraíso."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
