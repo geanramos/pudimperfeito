@@ -2,7 +2,7 @@
 # Site Settings
 title: Pudim Perfeito
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
-description: Gean Ramos personal blogging theme for Jekyll
+description: Pudim Perfeito personal blogging theme for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,7 +29,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Pudim Perfeito: Mais que uma Sobremesa
+  hero__title: Hey, I’m Gean Ramos
   hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
   hero__image: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/pudim-top.jpg?resize=554,312'
 
@@ -38,8 +38,8 @@ hero:
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: gean.me/form # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Digite seu Email
-mailchimp__button__text: Receber!
+mailchimp__input__text: Subscribe here
+mailchimp__button__text: Get a new tip
 
 #-------------------------------
 # Gallery Footer Section
