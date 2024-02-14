@@ -2,7 +2,7 @@
 # Site Settings
 title: Pudim Perfeito 🍮
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
-description: Compartilhe momentos especiais com a família e amigos ao redor de um pudim perfeito. Crie memórias afetivas e celebre a vida com essa sobremesa que une corações e paladares
+description: Gean Ramos personal blogging theme for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Pudim perfeito
-  author__bio: Do leite condensado à calda mágica, acompanhe a aventura de transformar ingredientes simples em uma sobremesa divina. Aprenda técnicas infalíveis e domine a arte do pudim!
+  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
   author__avatar: 'https://i0.wp.com/pudimperfeito.50x.com.br/favicon.png?resize=128,128'
 
 social:
