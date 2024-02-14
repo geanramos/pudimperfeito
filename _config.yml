@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Pudim Perfeito - v1542
+title: Pudim Perfeito - v1846
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
 description: Pudim Perfeito personal blogging theme for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Pudim perfeito
-  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  author__bio: Pudim Perfeito: Doce Pecado que te Leva ao Paraíso! A textura cremosa, a calda irresistível... Experimente a felicidade em cada mordida!
   author__avatar: 'https://i0.wp.com/pudimperfeito.50x.com.br/favicon.png?resize=128,128'
 
 social:
