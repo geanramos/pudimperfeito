@@ -2,7 +2,7 @@
 # Site Settings
 title: Pudim Perfeito - v2048
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
-description: Pudim Perfeito, Doce Pecado que te Leva ao Paraíso
+description: Doce Pecado que te Leva ao Paraíso
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Pudim perfeito
-  author__bio: Pudim Perfeito, Doce Pecado que te Leva ao Paraíso! A textura cremosa, a calda irresistível... Experimente a felicidade em cada mordida!
+  author__bio: Doce Pecado que te Leva ao Paraíso! A textura cremosa, a calda irresistível... Experimente a felicidade em cada mordida!
   author__avatar: 'https://i0.wp.com/pudimperfeito.50x.com.br/favicon.png?resize=128,128'
 
 social:
