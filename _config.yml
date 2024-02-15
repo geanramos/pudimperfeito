@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Pudim Perfeito - v2048
+title: Pudim Perfeito - v22
 logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo.png?resize=135,50" # You can add own logo. For example '/images/logo.png'.
 description: Doce Pecado que te Leva ao Paraíso
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -38,8 +38,8 @@ hero:
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: gean.me/form # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Subscribe here
-mailchimp__button__text: Get a new tip
+mailchimp__input__text: Digite se email
+mailchimp__button__text: Baixa Agora!
 
 #-------------------------------
 # Gallery Footer Section
