@@ -5,7 +5,7 @@ description: "Prepare-se para se apaixonar pelo pudim de geladeira mais cremoso 
 date: "2024-02-10 17:44:35 +0300"
 image: "/images/pudim-de-geladeira.jpg"
 video_embed: https://www.youtube.com/embed/llMs-XxahLI
-tags: [pudim]
+tags: [pudimdegeladeira, sobremesa, receitafacil, refrescante, delicia, semforno, pratico, rapido, irresistivel, dicas, ingredientessimples]
 ---
 Sem necessidade de forno, essa receita prática e rápida é perfeita para os dias mais quentes.
 Com dicas infalíveis e ingredientes simples, você vai preparar essa sobremesa irresistível em minutos.
