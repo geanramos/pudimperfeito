@@ -46,7 +46,7 @@ Em um liquidificador, bata as **mangas**, o leite de soja, o açúcar restante e
 
 **Dica**: sirva com pedaços de manga fresca.
 
-![Fatia de pudim de coco em prato branco; ao lado, há uma jarra branca e colher](https://portaledicase.com/wp-content/uploads/2023/10/pudimdecoco.jpg)
+![Fatia de pudim de coco em prato branco; ao lado, há uma jarra branca e colher](/images/pudimdecoco.jpg#wide)
 
 Pudim de coco (Imagem: flanovais | Shutterstock)
 
