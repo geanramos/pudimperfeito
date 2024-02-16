@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pudim de leite condensado
-description: "Veja como fazer o pudim de leite condensado tradicional, que leva apenas 4 ingredientes"
+description: "Aquele clássico que nunca sai de moda, agora com dicas infalíveis para um pudim cremoso, com calda de caramelo irresistível. Prepare-se para a explosão de sabores!"
 date: "2024-02-10 15:18:35 +0300"
 image: "/images/pudim.gif"
 video_embed: https://www.youtube.com/embed/7v0mxi_3O-Q?si=fnrUUcAwKbdLO2uD
