@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Pudim de Café: Um Sonho Cremoso para os Amantes de Cafeína!
-description: "Descubra essa delícia que vai te levar ao céu (ou pelo menos te dar um gás extra!)"
+description: "Descubra essa delícia que vai te levar ao céu ou pelo menos te dar um gás extra!"
 date:   "2024-02-10 14:01:35 +0300"
 image:  "/images/pudim-de-cafe.jpg"
 video_embed: https://www.dailymotion.com/embed/video/x8lqgsi?autoplay=1
