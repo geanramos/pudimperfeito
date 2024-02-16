@@ -5,7 +5,7 @@ description: "Aquele clássico que nunca sai de moda, agora com dicas infalívei
 date: "2024-02-10 15:18:35 +0300"
 image: "/images/pudim.gif"
 video_embed: https://www.youtube.com/embed/7v0mxi_3O-Q?si=fnrUUcAwKbdLO2uD
-tags: [pudim]
+tags: [pudim ,sobremesa ,receita ,leitecondensado]
 ---
 
 Veja como fazer o pudim de leite condensado tradicional, que leva apenas 4 ingredientes: *açúcar, leite condensado, leite e ovos*. Veja o passo a passo desta sobremesa tipicamente brasileira que vai encantar sua família. 
