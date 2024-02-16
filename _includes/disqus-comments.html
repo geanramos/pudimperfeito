@@ -3,6 +3,7 @@
   <button class="button disqus-button" id="show-comments-button" onclick="disqus();return false;">Mostrar Comentários</button>
 </div>
 <div class="fb-comments" data-href="{{ page.url | replace:'index.html','' | absolute_url }}" data-width="100%" data-numposts="10" data-locale="pt_BR" data-colorscheme="dark"></div>
+<fb:comments href="{{ page.url | replace:'index.html','' | absolute_url }}" num_posts="10" width="100%"></fb:comments>
 <div id="disqus_thread" class="post__comments">
   <div id="disqus_empty"></div>
 </div>
