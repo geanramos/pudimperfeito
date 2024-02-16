@@ -44,27 +44,27 @@ mailchimp__button__text: Baixa Agora!
 #-------------------------------
 # Gallery Footer Section
 gallery:
-  gallery__title: Gallery
+  gallery__title: Os Melhores Pudins
   gallery__columns: 3
   gallery__images:
-    - alt: 'Rest'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/alex-knight-5-GNa303REg-unsplash.jpg'
-    - alt: 'Bayes'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/hakan-nural-8l8gQsG4c-E-unsplash.jpg'
-    - alt: 'Bayes2'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/hama-haki-3TDaQc4930s-unsplash.jpg'
-    - alt: 'Bayes3'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jase-bloor-oCZHIa1D4EU-unsplash.jpg'
-    - alt: 'Rest'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-alY6_OpdwRQ-unsplash.jpg'
-    - alt: 'Hobby'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/jezael-melgoza-ryqRm-dfZbI-unsplash.jpg'
-    - alt: 'Fashion'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/redd-f-Bxzrd0p6yOM-unsplash.jpg'
-    - alt: 'Notes'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/su-san-lee-E_eWwM29wfU-unsplash.jpg'
-    - alt: 'Rest'
-      url: 'https://i0.wp.com/tangerina.netlify.app/images/japan/susann-schuster-umHsjqIJyK4-unsplash.jpg'
+    - alt: 'pudim de leite condensado'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46388.jpg?resize=1000,562.5'
+    - alt: 'pudim de pão'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46412.jpg?resize=1000,562.5'
+    - alt: 'pudim de leite'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/83618.jpg?resize=1000,562.5'
+    - alt: 'pudim de geladeira'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/29900.jpg?resize=1000,562.5'
+    - alt: 'receita de pudim de leite condensado'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/29263.jpg?resize=1000,562.5'
+    - alt: 'pudim de leite em pó'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46291.jpg?resize=1000,562.5'
+    - alt: 'receita de pudim de leite condensado'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/02748.jpg?resize=1000,562.5'
+    - alt: 'receita de pudim'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46362.jpg?resize=1000,562.5'
+    - alt: 'como fazer pudim'
+      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/pudim-top.jpg?resize=1000,562.5'
 
 
 #-------------------------------
