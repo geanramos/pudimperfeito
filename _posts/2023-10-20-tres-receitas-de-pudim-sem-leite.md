@@ -26,9 +26,9 @@ Em uma panela, aqueça uma xícara de chá de açúcar a fogo baixo, mexendo con
 
 Em um liquidificador, bata o leite de amêndoas, uma xícara de chá de açúcar, os ovos, o **amido de milho** e a essência de baunilha até obter uma mistura homogênea. Em seguida, despeje a mistura na forma caramelizada. Asse em banho-maria no forno preaquecido a 180°C por aproximadamente 1 hora. Após, retire do forno, deixe esfriar e leve à geladeira até o momento de desenformar. Sirva gelado.
 
-## Pudim de manga sem lactose
+![Pudim de manga sem lactose](/images/mousse-de-manga-vegan-sem-leite.jpg#wide "Pudim de manga sem lactose")
 
-![Pudim de leite sem lactose](/images/1_pudimportal-30907079.jpg "Pudim de leite sem lactose")
+## Pudim de manga sem lactose
 
 ### Ingredientes
 
