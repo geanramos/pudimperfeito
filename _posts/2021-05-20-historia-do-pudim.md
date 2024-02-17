@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pudim de Leite Condensado: Aquele Doce da Vovó que a Gente Ama
+title:  Pudim de Leite Condensado - Aquele Doce da Vovó que a Gente Ama
 description: "Memória afetiva em forma de pudim! Descubra a história, a origem e uma receita deliciosa desse clássico brasileiro."
 date:   "2019-05-20 21:50:35 +0300"
 image:  "/images/pudim-de-chia.jpg"
