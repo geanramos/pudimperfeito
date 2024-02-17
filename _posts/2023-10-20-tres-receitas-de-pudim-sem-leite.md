@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  3 Pudins Sem Lactose - Doce Pecado Sem Culpa!
-description: "Chega de sofrer! Descubra 3 receitas de pudim deliciosas e sem lactose para adoçar a vida sem culpa."
-date:   "2023-30-200 20:51:35 +0300"
-image:  "/images/pudimdecoco.jpg"
-tags: [pudimsemlactose ,sobremesafacil ,receitas ,delicia]
+title:  3 Pudins Sem Lactose - Doce Pecado Sem Culpa
+description: "Chega de sofrer! Descubra 3 receitas de pudim deliciosas e sem lactose para adoçar a vida sem culpa"
+date:   "2023-10-20 20:51:35 +0300"
+image:  "/images/1_pudimportal-30907079.jpg"
+tags: [pudimsemlactose, sobremesafacil, receitas, delicia]
 ---
 
 O pudim é uma sobremesa clássica e deliciosa. Tradicionalmente feito com leite condensado de origem animal, esse doce tão amado pelos brasileiros também pode ser preparado com ingredientes livres de lactose. Dessa forma, é possível fazer versões para agradar a todos. Pensando nisso, separamos três receitas incríveis para você comer sem medo. Confira!
