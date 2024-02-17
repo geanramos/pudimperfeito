@@ -2,7 +2,7 @@
 layout: post
 title:  Pudim de Chia com Frutas Vermelhas - Delícia Saudável que te Faz Sorrir
 description: "Chega de sofrer! Descubra 3 receitas de pudim deliciosas e sem lactose para adoçar a vida sem culpa"
-date:   "2023-10-20 20:51:35 +0300"
+date:   "2019-05-20 21:50:35 +0300"
 image:  "/images/mousse-de-manga-vegan-sem-leite.jpg"
 tags: [pudimdechia, sobremesasaudavel, vegan, semgluten]
 ---
