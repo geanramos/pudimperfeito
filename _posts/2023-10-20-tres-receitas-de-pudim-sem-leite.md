@@ -9,8 +9,6 @@ tags: [pudimsemlactose, sobremesafacil, receitas, delicia]
 
 O pudim é uma sobremesa clássica e deliciosa. Tradicionalmente feito com leite condensado de origem animal, esse doce tão amado pelos brasileiros também pode ser preparado com ingredientes livres de lactose. Dessa forma, é possível fazer versões para agradar a todos. Pensando nisso, separamos três receitas incríveis para você comer sem medo. Confira!
 
-Continua após a publicidade
-
 ## Pudim de leite sem lactose
 
 ### Ingredientes
@@ -29,6 +27,8 @@ Em uma panela, aqueça uma xícara de chá de açúcar a fogo baixo, mexendo con
 Em um liquidificador, bata o leite de amêndoas, uma xícara de chá de açúcar, os ovos, o **amido de milho** e a essência de baunilha até obter uma mistura homogênea. Em seguida, despeje a mistura na forma caramelizada. Asse em banho-maria no forno preaquecido a 180°C por aproximadamente 1 hora. Após, retire do forno, deixe esfriar e leve à geladeira até o momento de desenformar. Sirva gelado.
 
 ## Pudim de manga sem lactose
+
+![Pudim de leite sem lactose](/images/1_pudimportal-30907079.jpg "Pudim de leite sem lactose")
 
 ### Ingredientes
 
