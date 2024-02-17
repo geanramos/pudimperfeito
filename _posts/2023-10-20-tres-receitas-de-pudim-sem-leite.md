@@ -48,8 +48,6 @@ Em um liquidificador, bata as **mangas**, o leite de soja, o açúcar restante e
 
 ![Fatia de pudim de coco em prato branco; ao lado, há uma jarra branca e colher](/images/pudimdecoco.jpg#wide)
 
-Pudim de coco (Imagem: flanovais | Shutterstock)
-
 ## Pudim de leite de coco
 
 ### Ingredientes
