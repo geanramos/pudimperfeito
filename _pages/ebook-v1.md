@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adeus, Dieta! 10 Pudins Deliciosos Que Vão Sacia Sua Vontade de Doce (Sem Culpa!)
+title: E-book
 permalink: /ebook-v1/
 image: '/images/16.jpg'
 ---
