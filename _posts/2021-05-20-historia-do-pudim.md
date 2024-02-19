@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Pudim de Leite Condensado - Aquele Doce da Vovó que a Gente Ama
-description: "Memória afetiva em forma de pudim! Descubra a história, a origem e uma receita deliciosa desse clássico brasileiro."
-date:   "2019-05-20 21:50:35 +0300"
+description: "Memória afetiva em forma de pudim! Descubra a história, a origem e uma receita deliciosa desse clássico brasileiro"
+date:   "2021-05-20 21:50:35 +0300"
 image:  "/images/pudim-da-vovo.jpg"
-tags: [sobremesatradicional, memóriasafetiva]
+tags: [sobremesatradicional, memoriasafetiva]
 ---
 
 ### Pudim de Leite Condensado: Doce Memória Brasileira
