@@ -50,7 +50,7 @@
     </div>
   </div>
 <link rel="stylesheet" href="/extra/botao-zap.css">
-<a id="PudimPerfeito-botao-zap" target="_blank" href="https://api.whatsapp.com/send?text={% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %} [#] {{ page.url | replace:'index.html','' | absolute_url }}">
+<a id="PudimPerfeito-botao-zap" target="_blank" href="https://api.whatsapp.com/send?text={% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}  {{ page.url | replace:'index.html','' | absolute_url }}">
   <img src="/extra/whatsapp-icon.svg">
 </a>
   <div class="footer__info">
