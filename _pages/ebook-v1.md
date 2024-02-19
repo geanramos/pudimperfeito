@@ -8,7 +8,7 @@ image: '/images/01.jpg'
 <div class="form-box">
   <div class="contact-head">
     
-      **Adeus, Dieta! 10 Pudins Deliciosos Que Vão Sacia Sua Vontade de Doce (Sem Culpa!)**    
+      <p>Adeus, Dieta! 10 Pudins Deliciosos Que Vão Sacia Sua Vontade de Doce (Sem Culpa!) </p>
       <p class="page-description">A Dieta Vai Ter Que Esperar! Quem disse que você precisa abrir mão de um bom pudim para manter a forma?</p> 
     
   </div>
