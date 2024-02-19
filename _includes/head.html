@@ -14,6 +14,17 @@
   <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} – {{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.url == "/" %}{{ site.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
   <meta name="twitter:image:src" content="{{site.cdnurl}}{{page.image}}?resize=600,330">
+  <meta property="og:image:width" content="600" />
+  <meta property="og:image:height" content="330" />
+  <meta property="og:image:type" content="image/jpg" />
+  <meta name="author" content="Pudim Perfeito" />
+  <meta name="twitter:site" content="@geanramos" />
+  <meta name="twitter:creator" content="@geanramos" />
+  <meta name="twitter:label1" content="Escrito por" />
+  <meta name="twitter:data1" content="Pudim Perfeito" />
+  <meta name="twitter:label2" content="Est. tempo de leitura" />
+  <meta name="twitter:data2" content="2 minutos" />
+  <meta name="twitter:domain" content="https://pudimperfeito.50x.com.br">
 
   <!-- Facebook OpenGraph -->
   <meta property="og:title" content="{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} – {{ site.title }}{% endif %}">
