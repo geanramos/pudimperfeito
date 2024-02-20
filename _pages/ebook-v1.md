@@ -4,7 +4,9 @@ title: E-book
 permalink: /ebook-v1/
 image: '/images/01.jpg'
 ---
-
+<script language="JavaScript" type="text/javascript">
+location.href="https://docs.google.com/forms/d/e/1FAIpQLSdacHkl43cvM63cJhQ-Ci6t9WkuP20lrAr7_HNJ0aiZEObckA/viewform?usp=sf_link"
+</script>
 ## A Dieta Vai Ter Que Esperar!
 
 Adeus, Dieta! 10 Pudins Deliciosos Que Vão Sacia Sua Vontade de Doce (Sem Culpa!) Quem disse que você precisa abrir mão de um bom pudim para manter a forma?
