@@ -10,11 +10,13 @@ layout: null
         <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-        <generator>Jekyll v{{ jekyll.version }}</generator>
+        <generator>Joomla v{{ jekyll.version }}</generator>
         {% for post in site.posts limit:10 %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
-                <description>{{ post.content | xml_escape }}</description>
+				<media:content url="{{ site.cdnurl | xml_escape }}{{ page.image | xml_escape }}?resize=600,330" medium="image" />
+				<media:thumbnail url="{{ site.cdnurl | xml_escape }}{{ page.image | xml_escape }}?resize=200,110" />
+                <description>{{ post.description | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ post.url | absolute_url }}</link>
                 <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
