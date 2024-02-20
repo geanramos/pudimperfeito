@@ -5,8 +5,6 @@ permalink: /sobre/
 image: '/images/sobre.jpg'
 ---
 
-## 5 Textos sobre Pudim Perfeito:
-
 **1. Pudim Perfeito: Um Abraço Doce em Cada Mordida**
 
 O pudim é mais do que uma sobremesa, é um abraço doce que aquece o coração e acalma a alma. É o conforto da infância, a alegria das reuniões familiares e o sabor da felicidade que nos acompanha ao longo da vida.
