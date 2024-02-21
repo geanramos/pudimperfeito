@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 permalink: /sobre/
-image: '/images/sobre.jpg'
+image: '/images/46412.jpg'
 ---
 
 **1. Pudim Perfeito: Um Abraço Doce em Cada Mordida**
