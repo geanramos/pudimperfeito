@@ -1,7 +1,7 @@
 ---
 layout: page
 title: E-book
-permalink: /ebook-v1/
+permalink: /ebook/
 image: '/images/01.jpg'
 ---
 <script language="JavaScript" type="text/javascript">
