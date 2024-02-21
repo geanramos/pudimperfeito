@@ -71,24 +71,7 @@ gallery:
 # Contact Settings
 contact:
   email: geanramus@gmail.com # Add your email for contant form
-  description: 
-## Alô, Alô, Tem Alguém Aí? (Sim, temos!)
-**E aí, pudim!**
-
-Seus olhos pousaram nesta página épica, Se você chegou até aqui, é porque tem algo a nos dizer. Pode ser um recado telepático, um grito de alegria ou pode ser uma dúvida cruel. Seja qual for sua mensagem, estamos prontos para recebê-la!
-
-**Preencha o formulário abaixo com sua mensagem e prepare-se para:**
-
--   **Entrar em contato com a nossa equipe de super-heróis:** estamos prontos para te ajudar a resolver qualquer problema, desde o mais simples até o mais intergaláctico.
--   **Aquecer nossos corações com seus elogios:** sua opinião é mais valiosa do que um mapa do tesouro!
--   **Inspirar novas ideias:** compartilhe suas sugestões e nos ajude a construir um futuro ainda mais incrível.
--   **Fazer pedidos mágicos:** quem sabe podemos realizar seus sonhos... ou pelo menos tentar!
-
-**Então, não perca tempo!**
-
-Empunhe sua caneta (ou teclado) e envie sua mensagem. Juntos, vamos dominar o mundo (ou pelo menos a internet)!
-
-**P.S.:** Se você precisar de ajuda para encontrar o formulário, use a magia do Google ou a força dos seus dedos para navegar no site. # Add a description of your form
+  description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
