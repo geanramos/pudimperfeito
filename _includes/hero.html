@@ -9,7 +9,7 @@
             <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
             <p class="hero__description">{{ site.hero.hero__description }}</p><br>
             {% if site.mailchimp == "enable" %}
-            <center><p><a href="{% if site.mailchimp__identifier %}//{{site.mailchimp__identifier}}{% else %}#{% endif %}"  class="button button--primary subscribe-button" id="membedded-subscribe">{{ site.mailchimp__button__text }} <ion-icon name="download"></ion-icon></a></p></center>
+            <center><p><a href="{% if site.mailchimp__identifier %}//{{site.mailchimp__identifier}}{% else %}#{% endif %}"  class="button button--primary subscribe-button" id="membedded-subscribe">{{ site.mailchimp__button__text }} <i class="icon ion-ios-download"></i></a></p></center>
             {% endif %}
           </div>
 
