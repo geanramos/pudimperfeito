@@ -168,10 +168,11 @@
   }
 
   @media only screen and (max-width: $tablet) {
-    height: 297px;
+    height: 200px;
+    max-height: 297px;
   }
 
   @media only screen and (max-width: $mobile) {
-    height: 280px;
+    height: 200px;
   }
 }
