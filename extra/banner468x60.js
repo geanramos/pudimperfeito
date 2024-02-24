@@ -1,11 +1,11 @@
   var max      = 5;
   var PudimADS = 5;
   function verImagens() {
-    this[0]     = "https://pudimperfeito.50x.com.br/extra/images/1.png";
-    this[1]     = "https://pudimperfeito.50x.com.br/extra/images/2.png";
-    this[2]     = "https://pudimperfeito.50x.com.br/extra/images/3.png";
-    this[3]     = "https://pudimperfeito.50x.com.br/extra/images/4.png";
-    this[4]     = "https://pudimperfeito.50x.com.br/extra/images/5.png";
+    this[0]     = "https://i1.wp.com/pudimperfeito.50x.com.br/extra/images/1.png";
+    this[1]     = "https://i1.wp.com/pudimperfeito.50x.com.br/extra/images/2.png";
+    this[2]     = "https://i1.wp.com/pudimperfeito.50x.com.br/extra/images/3.png";
+    this[3]     = "https://i1.wp.com/pudimperfeito.50x.com.br/extra/images/4.png";
+    this[4]     = "https://i1.wp.com/pudimperfeito.50x.com.br/extra/images/5.png";
 
 
     this.length = PudimADS;
