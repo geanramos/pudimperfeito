@@ -5,7 +5,6 @@ permalink: /ebook/
 image: '/images/01.jpg'
 ---
 
- <script language="JavaScript" type="text/javascript">location.href="{% if site.mailchimp__identifier %}//{{site.mailchimp__identifier}}{% else %}#{% endif %}"</script>
  <script language="JavaScript" type="text/javascript">location.href="https://pudimperfeito.50x.com.br/pv/"</script>
  
  
