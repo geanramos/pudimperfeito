@@ -7,7 +7,7 @@ image: '/images/01.jpg'
 
  {% if site.mailchimp == "enable" %}
  <script language="JavaScript" type="text/javascript">location.href="{% if site.mailchimp__identifier %}//{{site.mailchimp__identifier}}{% else %}#{% endif %}"</script>
- {% endif %
+    {% endif %
  
 ## A Dieta Vai Ter Que Esperar!
 
