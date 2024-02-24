@@ -11,11 +11,11 @@
     this.length = PudimADS;
   }
   function verLinks() {
-    this[0]     = "https://pudimperfeito.50x.com.br/ebook/";
-    this[1]     = "https://pudimperfeito.50x.com.br/ebook/";
-    this[2]     = "https://pudimperfeito.50x.com.br/ebook/";
-    this[3]     = "https://pudimperfeito.50x.com.br/ebook/";
-    this[4]     = "https://pudimperfeito.50x.com.br/ebook/";
+    this[0]     = "https://pudimperfeito.50x.com.br/pv/";
+    this[1]     = "https://pudimperfeito.50x.com.br/pv/";
+    this[2]     = "https://pudimperfeito.50x.com.br/pv/";
+    this[3]     = "https://pudimperfeito.50x.com.br/pv/";
+    this[4]     = "https://pudimperfeito.50x.com.br/pv/";
 
 	
     this.length = PudimADS;
