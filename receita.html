@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerar link de Impressão</title>
+</head>
+<body>
+    <h2>Insira a URL:</h2>
+    <form id="urlForm">
+        <input type="text" id="urlInput" placeholder="Insira o link original">
+        <button type="submit">Enviar</button>
+    </form>
+
+    <div id="iframeContainer"></div>
+
+    <script>
+        // Função para obter o ID do segundo link
+        function getSecondLinkId(url) {
+            fetch(`https://www.receiteria.com.br/receita/${url}`)
+            .then(response => response.text())
+            .then(html => {
+                const matches = html.match(/<link rel="shortlink" href="(.*?)" \/>/);
+                if (matches) {
+                    const linkSegundo = matches[1];
+                    const urlParts = new URL(linkSegundo);
+                    const params = new URLSearchParams(urlParts.search);
+                    const id = params.get('p');
+                    if (id) {
+                        const iframe = document.createElement('iframe');
+                        iframe.src = `https://www.receiteria.com.br/imprimir?id=${id}`;
+                        iframe.width = '600px';
+                        iframe.height = '100%';
+                        iframe.frameborder = '0';
+                        iframe.scrolling = 'yes';
+                        document.getElementById('iframeContainer').appendChild(iframe);
+                    } else {
+                        console.error('Não foi possível encontrar o ID do segundo link.');
+                    }
+                } else {
+                    console.error('Não foi possível encontrar o link rel="shortlink" no HTML.');
+                }
+            })
+            .catch(error => {
+                console.error('Erro ao obter o ID do segundo link:', error);
+            });
+        }
+
+        // Manipulador de evento para envio do formulário
+        document.getElementById('urlForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const url = document.getElementById('urlInput').value;
+            if (url.trim() !== '') {
+                getSecondLinkId(url);
+            } else {
+                console.error('Por favor, insira uma URL válida.');
+            }
+        });
+    </script>
+</body>
+</html>
