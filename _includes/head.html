@@ -30,6 +30,7 @@
   <!-- Facebook OpenGraph -->
   <meta property="og:title" content="{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} – {{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.url == "/" %}{{ site.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
+  <meta property="article:published_time" content="{{ post.date | date_to_xmlschema }}" />
   <meta property="og:image" content="{{site.cdnurl}}{{page.image}}?resize=600,330">
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -64,7 +65,7 @@
   "image": {
     "@context": "http://schema.org",
     "@type": "ImageObject",
-    "url": "{{ page.image | absolute_url }}"
+    "url": "{{site.cdnurl}}{{page.image}}?resize=600,330"
   },
   "author": {
     "@context": "http://schema.org",
@@ -82,7 +83,7 @@
     "worstRating": 1
   },
   "keywords": "Receita de Pudim Perfeito",
-  "totalTime": "PT90M",
+  "totalTime": "PT1H20M",
 }
 </script>
   
