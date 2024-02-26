@@ -5,7 +5,7 @@ logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo-pudim-perfeito.png
 description: Doce Pecado que te Leva ao Paraíso
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-cdnurl: "https://i0.wp.com/pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+cdnurl: "https://i2.wp.com/drive.50x.com.br/pudimperfeito" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -31,7 +31,7 @@ social:
 hero:
   hero__title: Pudim Perfeito
   hero__description: Descubra receitas, dicas e truques para preparar o pudim dos seus sonhos! Do clássico ao gourmet, explore um universo de sabores e texturas que vão te conquistar.
-  hero__image: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/03.jpg?resize=554,312'
+  hero__image: 'https://i2.wp.com/drive.50x.com.br/pudimperfeito/images/03.jpg?resize=554,312'
 
 
 #-------------------------------
