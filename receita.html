@@ -15,7 +15,16 @@
     <div id="iframeContainer"></div>
 
     <script>
-        // Função para obter o ID do segundo link
+        document.getElementById('urlForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const url = document.getElementById('urlInput').value;
+            if (url.trim() !== '') {
+                getSecondLinkId(url);
+            } else {
+                console.error('Por favor, insira uma URL válida.');
+            }
+        });
+
         function getSecondLinkId(url) {
             fetch(`https://www.receiteria.com.br/receita/${url}`)
             .then(response => response.text())
@@ -23,9 +32,8 @@
                 const matches = html.match(/<link rel="shortlink" href="(.*?)" \/>/);
                 if (matches) {
                     const linkSegundo = matches[1];
-                    const urlParts = new URL(linkSegundo);
-                    const params = new URLSearchParams(urlParts.search);
-                    const id = params.get('p');
+                    const urlParams = new URLSearchParams(new URL(linkSegundo).search);
+                    const id = urlParams.get('p');
                     if (id) {
                         const iframe = document.createElement('iframe');
                         iframe.src = `https://www.receiteria.com.br/imprimir?id=${id}`;
@@ -45,17 +53,6 @@
                 console.error('Erro ao obter o ID do segundo link:', error);
             });
         }
-
-        // Manipulador de evento para envio do formulário
-        document.getElementById('urlForm').addEventListener('submit', function(event) {
-            event.preventDefault();
-            const url = document.getElementById('urlInput').value;
-            if (url.trim() !== '') {
-                getSecondLinkId(url);
-            } else {
-                console.error('Por favor, insira uma URL válida.');
-            }
-        });
     </script>
 </body>
 </html>
