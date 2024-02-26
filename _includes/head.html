@@ -87,8 +87,6 @@
 }
 </script>
   
-  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"{{ page.url | replace:'index.html','' | absolute_url }}","url":"{{ page.url | replace:'index.html','' | absolute_url }}","name":"{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}","isPartOf":{"@id":"{{ page.url | replace:'index.html','' | absolute_url }}#website"},"description":"{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}","breadcrumb":{"@id":"{{ page.url | replace:'index.html','' | absolute_url }}#breadcrumb"},"inLanguage":"pt-BR"},{"@type":"BreadcrumbList","@id":"{{ page.url | replace:'index.html','' | absolute_url }}#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início"}]},{"@type":"WebSite","@id":"{{ page.url | replace:'index.html','' | absolute_url }}#website","url":"{{ page.url | replace:'index.html','' | absolute_url }}","name":"{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}","description":"{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"{{ page.url | replace:'index.html','' | absolute_url }}?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"}]}</script>
-  
   <script>
     {% if site.color_scheme == "auto" %}
     if (localStorage.getItem("theme") === "dark") {
