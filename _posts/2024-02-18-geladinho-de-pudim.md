@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Geladinho de Pudim com Calda de Caramelo: Refresque a Nostalgia!"
-description: "Saboreie a infância em cada mordida! Geladinho de pudim com calda de caramelo é a versão refrescante da sobremesa clássica."
+title:  Geladinho de Pudim com Calda de Caramelo, Refresque a Nostalgia!
+description: "Saboreie a infância em cada mordida! Geladinho de pudim com calda de caramelo é a versão refrescante da sobremesa clássica"
 date:   "2024-02-18 10:07:35 +0300"
 image:  "/images/geladinho-de-pudim.jpg"
-tags: [geladinhodepudim, doceinfância, caldadecaramelo]
+tags: [geladinhodepudim, doceinfancia, caldadecaramelo]
 ---
 
 ### Ingredientes
