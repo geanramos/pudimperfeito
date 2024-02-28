@@ -29,7 +29,7 @@
 
   <!-- Facebook OpenGraph -->
   <meta property="og:title" content="{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} – {{ site.title }}{% endif %}">
-  <meta property="og:url" content="https://gean.me/receita/#top" />
+  <meta property="og:url" content="{{ post.url | prepend: site.baseurl }}" />
   <meta property="og:description" content="{% if page.url == "/" %}{{ site.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
   <meta property="article:published_time" content="{{ post.date | date_to_xmlschema }}" />
   <meta property="og:image" content="{{site.cdnurl}}{{page.image}}?resize=600,330">
