@@ -3,7 +3,7 @@ layout: post
 title:  Pudim de abacate com creme de leite
 description: "Este pudim combina a textura aveludada do abacate com a cremosidade do creme de leite, resultando em uma sobremesa leve e deliciosa"
 date:   "2024-02-27 20:21:35 +0300"
-image:  "/images/pudim-saudavel-sem-leite-condensado.jpg"
+image:  "/images/pudim-de-abacate-com-creme-de-leite.jpg"
 video_embed: "https://www.youtube.com/embed/A8sNoqcmnSw"
 tags: [abacate, cremedeleite, pudim, sobremesa, leve, cremoso, refrescante, delicioso]
 ---
