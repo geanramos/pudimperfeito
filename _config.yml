@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Pudim Perfeito
-logo: "https://i1.wp.com/pudimperfeito.50x.com.br/images/logo-pudim-perfeito.png?resize=200,77" # You can add own logo. For example '/images/logo.png'.
+logo: "https://i1.wp.com/pudimperfeito.u1m.com.br/images/logo-pudim-perfeito.png?resize=200,77" # You can add own logo. For example '/images/logo.png'.
 description: Seja bem-vinda ao Pudim Perfeito, o seu portal para um universo de delícias cremosas e irresistíveis!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pudimperfeito.50x.com.br" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,7 +14,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Pudim perfeito
   author__bio: Doce Pecado que te Leva ao Paraíso! A textura cremosa, a calda irresistível... Experimente a felicidade em cada mordida!
-  author__avatar: 'https://i0.wp.com/pudimperfeito.50x.com.br/favicon.png?resize=128,128'
+  author__avatar: 'https://i0.wp.com/pudimperfeito.u1m.com.br/favicon.png?resize=128,128'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/geanramos"}
@@ -31,13 +31,13 @@ social:
 hero:
   hero__title: Pudim Perfeito
   hero__description: Descubra receitas, dicas e truques para preparar o pudim dos seus sonhos! Do clássico ao gourmet, explore um universo de sabores e texturas que vão te conquistar.
-  hero__image: 'https://i2.wp.com/drive.50x.com.br/pudimperfeito/images/03.jpg?resize=554,312'
+  hero__image: 'https://i2.wp.com/pudimperfeito.u1m.com.br/pudimperfeito/images/03.jpg?resize=554,312'
 
 
 #-------------------------------
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: pudimperfeito.50x.com.br/pv/ # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__identifier: pudimperfeito.u1m.com.br/pv/ # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Digite seu melhor E-mail
 mailchimp__button__text: Baixa Agora!
 
@@ -48,23 +48,23 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'pudim de leite condensado'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46388.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/46388.jpg?resize=1000,562.5'
     - alt: 'pudim de pão'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46412.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/46412.jpg?resize=1000,562.5'
     - alt: 'pudim de leite'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/83618.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/83618.jpg?resize=1000,562.5'
     - alt: 'pudim de geladeira'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/29900.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/29900.jpg?resize=1000,562.5'
     - alt: 'receita de pudim de leite condensado'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/29263.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/29263.jpg?resize=1000,562.5'
     - alt: 'pudim de leite em pó'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46291.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/46291.jpg?resize=1000,562.5'
     - alt: 'receita de pudim de leite condensado'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/02748.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/02748.jpg?resize=1000,562.5'
     - alt: 'receita de pudim'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/46362.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/46362.jpg?resize=1000,562.5'
     - alt: 'como fazer pudim'
-      url: 'https://i0.wp.com/pudimperfeito.50x.com.br/images/pudim-top.jpg?resize=1000,562.5'
+      url: 'https://i0.wp.com/pudimperfeito.u1m.com.br/images/pudim-top.jpg?resize=1000,562.5'
 
 
 #-------------------------------
