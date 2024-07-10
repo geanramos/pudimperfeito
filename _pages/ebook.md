@@ -5,7 +5,7 @@ permalink: /ebook/
 image: '/images/01.jpg'
 ---
 
- <script language="JavaScript" type="text/javascript">location.href="https://pudimperfeito.50x.com.br/pv/"</script>
+ <script language="JavaScript" type="text/javascript">location.href="https://pay.hotmart.com/W91098666M?checkoutMode=10&bid=1720653263308"</script>
  
  
 ## A Dieta Vai Ter Que Esperar!
